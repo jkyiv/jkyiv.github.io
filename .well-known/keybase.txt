@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jkepler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joelandstephanies.com
+  * I am jkepler (https://keybase.io/jkepler) on keybase.
+  * I have a public key ASDIHdkwC_aZWJwRv6BRT52WJzttB4gMchEbi5kLeL8GVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c81dd9300bf699589c11bfa0514f9d96273b6d07880c72111b8b990b78bf06560a",
+      "host": "keybase.io",
+      "kid": "0120c81dd9300bf699589c11bfa0514f9d96273b6d07880c72111b8b990b78bf06560a",
+      "uid": "10f4424820553f55bf6f1b75e8d3c919",
+      "username": "jkepler"
+    },
+    "merkle_root": {
+      "ctime": 1576082695,
+      "hash": "c3485403c1a885ecd8e3d47b89c41c31ffb0569b0427d49d8b3303bfc7b89187c51f5d8287e3a67ec58905dd8c855814a03076db1df8f9315cb7aa552549783e",
+      "hash_meta": "626744020b45af5fa428a0f001e795a07eb98b2ed7e988f77943e304775cef4b",
+      "seqno": 13379403
+    },
+    "service": {
+      "entropy": "ogHsWqJWd+OCH5qlFz2FJLBE",
+      "hostname": "joelandstephanies.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1576082708,
+  "expire_in": 504576000,
+  "prev": "8fcf36f3a544b7b9b646cd0d57f68c7fcbbe96346af1403a8e373cbc72570097",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyB3ZMAv2mVicEb+gUU+dlic7bQeIDHIRG4uZC3i/BlYKp3BheWxvYWTESpcCDcQgj88286VEt7m2Rs0NV/aMf8u+ljRq8UA6jjc8vHJXAJfEIGKzMgqZY0aYQEzhTGm9AvyqlGbS7/xHE2fPwl8bUkaPAgHCo3NpZ8RACj7QbFLubHzSU9TvGEg/k2StaSKm6sB63LXzFQKuoP0iNYUfeDZliugqa2jC3tkd8sh8P1Cm3zrkZRQl4pUqAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJrdEzY50X25mcYPD7nR7QENStxjXMWXQc8XxNuhgobEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jkepler
+
+==================================================================
